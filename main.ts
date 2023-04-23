@@ -22,7 +22,7 @@ const enum TouchSensor {
 
 namespace mpr121 {
 
-    const MPR121_ADDRESS = 0x5A
+    const MPR121_ADDRESS = 0x5B
     const TOUCH_STATUS_PAUSE_BETWEEN_READ = 50
 
     interface TouchController {
